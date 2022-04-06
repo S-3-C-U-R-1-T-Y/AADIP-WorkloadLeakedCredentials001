@@ -1,0 +1,4 @@
+"AadClientId": "20903dcc-c74b-4892-a670-b82784b65dff",
+	"AadSecret": "ui27Q~6owDBNlHHVH_hhpdiIn~yj3nZqWZUvm",
+		"AadTenantDomain": "nedscaperlab.onmicrosoft.com",
+	"AadTenantId": "316bec54-8d14-4882-8af3-ee5e61570603",
